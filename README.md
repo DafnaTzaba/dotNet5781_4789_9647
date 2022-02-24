@@ -1,9 +1,7 @@
-# dotNet5781_4789_9647
-<<<<<<< HEAD
-#first student change 9647 
-=======
-good night World
->>>>>>> 90e811a027945499dfaa4f5f97522075581bf964
-#try again
+# Transportation management system
 
-"ExO Final commit"
+A .Net and C# based program for managing the public transportation system. 
+This project included a Windows based GUI implementation for both the server and client.
+
+This project uses the three-layer model in order to create a good and correct separation between the data layer and the display layer.
+In the program you can plan your trip, see bus rou and see a real-time simulation at a particular station by building threds.
